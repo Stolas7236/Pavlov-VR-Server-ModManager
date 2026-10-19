@@ -1,0 +1,6 @@
+{
+  "name": "Pavlov VR Tactical Command",
+  "description": "Tactical Dark Precision dedicated server operator dashboard, Steam Workshop UGC mod asset manager, live RCON console, and map cycle configuration tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
